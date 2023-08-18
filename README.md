@@ -8,3 +8,4 @@ Categories of OSM data used to obtain UGS:
 3. Tourism
 4. Land use
 
+Ward boundaries sourced from IDFC Institute https://github.com/IDFCInstitute/Cities_data.git
